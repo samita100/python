@@ -12,7 +12,7 @@ sleep 388
 
 python3 support.py
 
-sleep 399
+sleep 347
 
 python3 main.py
 
@@ -24,8 +24,6 @@ sleep 324
 
 python3 main.py
 
-sleep 340
+sleep 379
 
 python3 support.py
-
-sleep 413
