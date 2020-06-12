@@ -57,7 +57,7 @@ driver = webdriver.Remote(
 
 
 
-
+driver.maximize_window()
 
 
 
