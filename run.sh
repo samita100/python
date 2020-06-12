@@ -8,7 +8,7 @@ sleep 407
 
 python3 main.py
 
-sleep 409
+sleep 388
 
 python3 support.py
 
@@ -20,7 +20,7 @@ sleep 401
 
 python3 support.py
 
-sleep 404
+sleep 324
 
 python3 main.py
 
